@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Verchik1970)
+<div align="center">
+  <img src="https://media1.giphy.com/media/zzD83Y042i0b9kN22B/200w.gif?cid=ecf05e47cz8iscd12dd1mn1p5xtii5kahx6is7esy385ca7o&ep=v1_gifs_search&rid=200w.gif&ct=g" width="600" height="300"/>
+</div>
 
 <div id="badges">
   <a href="your-counter-URL">
