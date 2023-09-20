@@ -2,6 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=Verchik1970)
 
+<div id="badges">
+  <a href="your-counter-URL">
+   <img src="https://komarev.com/ghpvc/?username=Verchik1970&style=flat-square&color=blue" alt=""/>
+
+
+  </a>
+</div>
+
 <!--
 **Verchik1970/Verchik1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
